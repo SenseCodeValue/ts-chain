@@ -17,3 +17,4 @@ node는 typscript를 모르기 때문에 start이전 tsc로 컴파일을 해준�
 
 TS는 기존의 JS와 달리 변수, 파라미터, 프로퍼티에 타입을 입력을 해주어야한다.
 
+fdsdsfs
